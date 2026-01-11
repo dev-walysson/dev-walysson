@@ -3,8 +3,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/waly_gabriel1/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/walysson-gabriel-7a615510b)
 
+##### Desenvolvimento backend
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-walysson&layout=compact)
+#### Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software. Escolhi Python como minha stack principal, com foco em desenvolvimento backend, e atualmente estou estudando meu primeiro framework, o Django.
 
 ## Tecnologias
 <div style="display: inline_block"><br/>
@@ -13,6 +14,7 @@
     <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow" />
     <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=black" />
-</div>
+</div><br/>
 
-#### Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software. Escolhi Python como minha stack principal, com foco em desenvolvimento backend, e atualmente estou estudando meu primeiro framework, o Django.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-walysson&layout=compact)
