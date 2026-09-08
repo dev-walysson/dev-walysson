@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walysson-gabriel-7a615510b)
 
-##### Desenvolvimento backend
+##### Desenvolvimento
 
 #### Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software. Escolhi Node.js para desenvolvimento backend como minha stack principal, aprofundando conhecimentos em APIs REST, boas práticas de arquitetura e integração com bancos de dados, buscando evoluir para atuar profissionalmente como desenvolvedor.
 #### Atualmente, ainda não atuo na área de TI, mas no meu dia a dia profissional utilizo as ferramentas do pacote Office e, recentemente, venho explorando Power Apps e Power Automate, fiquei muito animado com o potencial dessas ferramentas para a criação de soluções low-code.
